@@ -1,1 +1,1 @@
-Images for the 3D game
+Images for the 3D maze game
