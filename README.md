@@ -30,4 +30,5 @@
 # project Demo
  [![3D Maze](https://img.youtube.com/vi/y5FlT2oApag/0.jpg)](https://www.youtube.com/watch?v=y5FlT2oApag)
 # Author
-Blessing Awodeyi <https://twitter.com/samueloriola2> <samueloriola212@gmail.com>
+Blessing Awodeyi <https://twitter.com/samueloriola2>
+Contact email       <samueloriola212@gmail.com>
